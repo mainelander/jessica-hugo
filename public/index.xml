@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Listing Presentation for 5365 Akbar Terrace</title>
+    <link>/</link>
+    <description>Recent content on Listing Presentation for 5365 Akbar Terrace</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jan 2018 13:41:44 -0500</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>/post/welcome/</link>
+      <pubDate>Thu, 18 Jan 2018 13:41:44 -0500</pubDate>
+      
+      <guid>/post/welcome/</guid>
+      <description>++ This is a sample of what the greatest web site could look like A recent study found that the maximum number of social connections for both men and women occurs around the age of 25. But as young adults settle into careers and prioritize romantic relationships, those social circles rapidly shrink and friendships tend to take a back seat.</description>
+    </item>
+    
+  </channel>
+</rss>
